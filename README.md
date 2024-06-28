@@ -41,4 +41,6 @@ A intelitrader foi contratada para traduzir uma mensagem capturada na rede de um
 ![](https://imgur.com/axJ25tW.png)
 
 ## Contato
-### [📧 Entre em contato pelo meu email](mailto:cleverson.silva.contact@gmail.com)
+
+### [📧 Entre em contato pelo meu Email](mailto:cleverson.silva.contact@gmail.com)
+### [📄 Acesse meu currículo online](https://www.cvkeep.com/cv/cleverson)
